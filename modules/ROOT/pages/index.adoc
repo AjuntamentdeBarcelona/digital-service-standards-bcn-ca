@@ -1,0 +1,155 @@
+= Els nostres estàndards de serveis digitals
+
+== Treballem en equips multidisciplinaris
+
+Equips que puguin dissenyar, construir i fer operatiu el servei, liderat per un responsable de servei sènior.
+
+Un equip multidisciplinari ajuda a:
+
+* Construir el servei de manera autosuficient, sense dependències externes
+
+* Seguir millorant-lo segons les necessitats de l’usuari
+
+* Prendre decisions ràpidament
+
+== Comencem amb les necessitats dels usuaris
+
+Desenvolupar més coneixement sobre qui són els usuaris de servei i el que això significa per al disseny del servei.
+
+Això és bàsic per construir un servei que:
+
+* Ajudi els usuaris a fer fàcilment el que necessiten fer
+
+* Es basi en les necessitats reals dels usuaris, no en suposicions
+
+== Fem servir mètodes àgils, construïm de manera iterativa
+
+Construir el servei fent servir mètodes àgils, iteratius i centrats en l’usuari final.
+
+Aquests mètodes ajuden a construir serveis que:
+
+* Satisfan les necessitats dels usuaris
+
+* Són fàcils i còmodes d'utilitzar
+
+* Es poden adaptar fàcilment a canvis tecnològics o de govern
+
+* Es milloren de forma contínua
+
+== Reduïm la càrrega sobre els ciutadans
+
+Fer servir informació ja existent a l’administració:
+
+* Interactuar amb altres administracions públiques per no haver de demanar als ciutadans que tornin a aportar els mateixos documents
+
+* Eliminar documentació innecessària
+
+* Assegurar-se que hi ha consentiment per a l’ús de documents personals
+
+== Fem servir codi obert i estàndards oberts
+
+* Fer servir codi obert sempre que sigui possible
+
+* Fer servir estàndards oberts sempre que sigui possible
+
+* Fer que tots els nous codis siguin oberts i reutilitzables, publicant-los amb les llicències adients
+
+== Entenem la seguretat, la privacitat i els aspectes ètics
+
+Avaluar quines dades i informació de l’usuari subministrarà o emmagatzemarà el servei, i abordar:
+
+* Nivell de seguretat
+
+* Responsabilitats legals
+
+* Aspectes de privacitat i riscos
+
+Els usuaris no utilitzaran el servei si no es garanteix:
+
+* Que és confidencial
+
+* Que poden accedir a la seva informació quan la necessitin
+
+== Dissenyem un pla per si estem fora de servei
+
+Els usuaris esperaran que el servei estigui disponible 24 hores al dia, 365 dies a l’any.
+
+Cal tenir un pla per si els serveis es queden temporalment fora de línia. Cal entendre com afectarà els usuaris i com es pot restaurar el servei.
+
+== Tenim cura del disseny visual i l’accessibilitat
+
+Construir un servei coherent amb l’experiència d'usuari a l’Ajuntament de Barcelona, d'acord amb les directrius de disseny visual i accessibilitat.
+
+* Els usuaris confien en els serveis de l’Ajuntament perquè en reconeixen l’estil
+
+* Estalviar temps reutilitzant els mateixos patrons i centrar-se en les parts singulars del servei
+
+* Fer servir patrons i estils que es basin en estudis sobre els usuaris finals
+
+== Tenim un pla per a les persones que necessiten ajuda digital
+
+* Ajudar els usuaris a desenvolupar les seves competències digitals
+
+* Donar suport digital a aquells que no poden utilitzar els serveis digitals per sí mateixos
+
+* Si es dóna un servei essencial, assegurar-se que s’adapta als ciutadans que no tenen dispositius digitals
+
+== Avaluem de manera contínua l’experiència de l’usuari
+
+Posar en marxa un pla per avaluar i testejar l’experiència de l’usuari, per tal de millorar el servei a partir del seu _feedback_.
+
+* Comprovar que el servei ajuda els usuaris a fer les tasques que han de fer
+
+* Seguir millorant el servei segons les seves necessitats
+
+== Avaluem les eines, els sistemes i els serveis
+
+Avaluar les eines i els sistemes que es fan servir i assegurar-se que:
+
+* Es segueix el Codi dels Principis Tecnològics i s’entenen els riscos tècnics associats
+
+* Les eines, els sistemes i els serveis es poden adquirir de forma sostenible alhora que es garanteix la independència de proveïdors
+
+* Els serveis segueixen principis d'utilització ètica de les dades
+
+== Reutilitzem el que ja existeix
+
+Sempre que sigui possible, els serveis han d'intentar reutilitzar la infraestructura existent i les funcions compartides per tal de:
+
+* Crear una experiència de servei coherent
+
+* Estalviar temps i recursos en la construcció de funcionalitats ja existents
+
+== Posem en marxa un pla de manteniment i suport
+
+Tenir un pla per minimitzar la interrupció del servei en cas d'incidència.
+
+Identificar els components bàsics del servei que han d'estar monitoritzats.
+
+Utilitzar les mesures clau per a la millora contínua del servei.
+
+== Mesurem i informem sobre el rendiment del servei
+
+Recollir i presentar els valors dels indicadors en un format coherent, estructurat, entenedor i accessible per al públic.
+
+Utilitzar indicadors de funcionament i rendiment per millorar contínuament el servei:
+
+* Aprenent quins són els seus punts forts i febles
+
+* Fent servir les dades com a base de les millores a assolir
+
+== Tenim un pla per fer tot en digital
+
+Els serveis digitals han de permetre que els ciutadans pugin, signin i comprovin els seus documents.
+
+Si els ciutadans no poden aportar la documentació digitalment, l’Ajuntament ha de posar a la seva disposició un servei alternatiu que digitalitzi la documentació per ells.
+
+== Gestionem el canvi
+
+* Facilitar la transició entre l’actual servei no digital i el nou servei digital.
+
+* Quan es substitueixi un servei digital, tenir un pla de transició per passar del servei antic al nou.
+
+* Migrar les dades i els documents existents als nous formats de servei digital.
+
+* Evitar qualsevol interrupció quan els ciutadans accedeixen al servei i assegurar que existeix un pla per promoure l’ús del nou servei.
