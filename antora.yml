@@ -1,5 +1,5 @@
-name: digital-services
-title: Digital Service Standards
+name: ca/digital-services
+title: Estàndards de serveis digitals
 version: 0.1
 start_page: ROOT:index.adoc
 nav:
