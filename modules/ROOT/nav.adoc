@@ -1,1 +1,10 @@
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+include::{partialsdir}/README.adoc[tag=metadata]
+
+.$$MAIN
 * xref:index.adoc[Els nostres estàndards de serveis digitals]
+
+.$$BOTTOM
+* xref:{lang}/glossary:ROOT:glossary.adoc[Glossari de les guies]
